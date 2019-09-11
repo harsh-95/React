@@ -1,0 +1,19 @@
+canvas{
+
+  width:675px !important;
+  height:275px !important;
+
+}
+
+.chart-container{
+  text-align: -webkit-center;
+}
+
+.toggle-buttons{
+  padding: 12px 0px;
+}
+
+.toggle-buttons button{
+  min-width: 82px;
+  font-size: 14px;
+}

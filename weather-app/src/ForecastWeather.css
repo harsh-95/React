@@ -1,0 +1,31 @@
+.daily-weather, .wind-chart{
+	display: flex;
+	text-align: center;
+}
+
+.daily-weather div{
+	padding: 0px 25px;
+}
+
+.wind-speed{
+	font-size: 13px;
+}
+
+.temp-range{
+	font-size: 13px;
+}
+
+.wind-chart{
+	margin-top: 8%;
+	margin-bottom: 3%;
+}
+
+.wind-chart div{
+	padding: 0px 20px;
+}
+
+.wind-time{
+	margin-top: 50%;
+	font-weight: bolder;
+    color: #777;
+}
